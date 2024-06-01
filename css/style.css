@@ -1,0 +1,5 @@
+body{
+    max-width: 0;
+    min-width: 12;
+    stroke-miterlimit: calc(12.2);
+}
